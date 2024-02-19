@@ -10,10 +10,10 @@ global.email = 'akk728492@gmail.com'
 global.github = 'https://github.com/arkhan998/MALIK-MD'
 global.location = 'Pakistan'
 global.gurl = 'king-md.db' // add your username
-global.sudo = process.env.SUDO || '923124533358'
+global.sudo = process.env.SUDO || '923107058820'
 global.devs = '923124533358';
-global.website = 'https://github.com/arkhan998/MALIK-MD' //wa.me/+91000000000000
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/dce77f7538019d05afe65.jpg'
+global.website = 'https://github.com/arkhan998/MALIK-MD' //wa.me/+923107058820
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/227a4e96b3a573b054a92.jpg'
 module.exports = {
   
   sessionName:  process.env.SESSION_ID ||  "session",
